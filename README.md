@@ -2,4 +2,4 @@
 trabalho faculdade
 
 # link do projeto no heroku
-- https://app-curriculo-faculdade.herokuapp.com/
+- https://sprightly-faloodeh-508cb6.netlify.app
